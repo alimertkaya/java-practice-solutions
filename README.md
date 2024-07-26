@@ -10,4 +10,5 @@
 | 006 | [Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)            | [JavaLoops2.java](./java-practice-solutions/JavaLoops2.java)        |
 | 007 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)            | [JavaDatatypes.java](./java-practice-solutions/JavaDatatypes.java)        |
 | 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)            | [JavaEndOfFile.java](./java-practice-solutions/JavaEndOfFile.java)        |
+| 009 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true)            | [JavaStaticInitBlock.java](./java-practice-solutions/JavaStaticInitBlock.java)        |
 
