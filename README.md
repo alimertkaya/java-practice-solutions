@@ -11,4 +11,6 @@
 | 007 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem?isFullScreen=true)            | [JavaDatatypes.java](./java-practice-solutions/JavaDatatypes.java)        |
 | 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)            | [JavaEndOfFile.java](./java-practice-solutions/JavaEndOfFile.java)        |
 | 009 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true)            | [JavaStaticInitBlock.java](./java-practice-solutions/JavaStaticInitBlock.java)        |
+| 010 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true)            | [JavaIntToString.java](./java-practice-solutions/JavaIntToString.java)        |
+| 011 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true)            | [JavaOutputFormat.java](./java-practice-solutions/JavaOutputFormat.java)        |
 
