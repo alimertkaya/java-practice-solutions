@@ -14,3 +14,5 @@
 | 010 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true)            | [JavaIntToString.java](./java-practice-solutions/JavaIntToString.java)        |
 | 011 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true)            | [JavaOutputFormat.java](./java-practice-solutions/JavaOutputFormat.java)        |
 | 012 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem?isFullScreen=true)            | [JavaCurrencyFormatter.java](./java-practice-solutions/JavaCurrencyFormatter.java)        |
+| 013 | [Java String Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem?isFullScreen=true)            | [JavaStringsIntro.java](./java-practice-solutions/JavaStringsIntro.java)        |
+
