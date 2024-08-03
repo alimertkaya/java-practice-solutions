@@ -18,5 +18,6 @@
 | 014 | [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem?isFullScreen=true)            | [JavaSubstring.java](./java-practice-solutions/JavaSubstring.java)        |
 | 015 | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true)            | [JavaSubstringComparisons.java](./java-practice-solutions/JavaSubstringComparisons.java)        |
 | 016 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true)            | [JavaStringReverse.java](./java-practice-solutions/JavaStringReverse.java)        |
+| 017 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true)            | [JavaAnagrams.java](./java-practice-solutions/JavaAnagrams.java)        |
 
 
