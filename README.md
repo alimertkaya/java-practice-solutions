@@ -19,5 +19,6 @@
 | 015 | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem?isFullScreen=true)            | [JavaSubstringComparisons.java](./java-practice-solutions/JavaSubstringComparisons.java)        |
 | 016 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true)            | [JavaStringReverse.java](./java-practice-solutions/JavaStringReverse.java)        |
 | 017 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true)            | [JavaAnagrams.java](./java-practice-solutions/JavaAnagrams.java)        |
+| 018 | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true)            | [JavaStringTokens.java](./java-practice-solutions/JavaStringTokens.java)        |
 
 
