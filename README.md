@@ -21,5 +21,6 @@
 | 017 | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=true)            | [JavaAnagrams.java](./java-practice-solutions/JavaAnagrams.java)        |
 | 018 | [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem?isFullScreen=true)            | [JavaStringTokens.java](./java-practice-solutions/JavaStringTokens.java)        |
 | 019 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true)            | [JavaDateAndTime.java](./java-practice-solutions/JavaDateAndTime.java)        |
+| 020 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true)            | [PatternSyntaxChecker.java](./java-practice-solutions/PatternSyntaxChecker.java)        |
 
 
