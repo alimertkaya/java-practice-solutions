@@ -23,5 +23,6 @@
 | 019 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true)            | [JavaDateAndTime.java](./java-practice-solutions/JavaDateAndTime.java)        |
 | 020 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true)            | [PatternSyntaxChecker.java](./java-practice-solutions/PatternSyntaxChecker.java)        |
 | 021 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem?isFullScreen=true)            | [JavaRegex.java](./java-practice-solutions/JavaRegex.java)        |
+| 022 | [Java Regex 2](https://www.hackerrank.com/challenges/duplicate-word/problem?isFullScreen=true)            | [JavaRegex2.java](./java-practice-solutions/JavaRegex2.java)        |
 
 
