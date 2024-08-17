@@ -24,5 +24,6 @@
 | 020 | [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem?isFullScreen=true)            | [PatternSyntaxChecker.java](./java-practice-solutions/PatternSyntaxChecker.java)        |
 | 021 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem?isFullScreen=true)            | [JavaRegex.java](./java-practice-solutions/JavaRegex.java)        |
 | 022 | [Java Regex 2](https://www.hackerrank.com/challenges/duplicate-word/problem?isFullScreen=true)            | [JavaRegex2.java](./java-practice-solutions/JavaRegex2.java)        |
+| 023 | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true)            | [ValidUsernameRegularExpression.java](./java-practice-solutions/ValidUsernameRegularExpression.java)        |
 
 
