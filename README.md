@@ -25,5 +25,6 @@
 | 021 | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem?isFullScreen=true)            | [JavaRegex.java](./java-practice-solutions/JavaRegex.java)        |
 | 022 | [Java Regex 2](https://www.hackerrank.com/challenges/duplicate-word/problem?isFullScreen=true)            | [JavaRegex2.java](./java-practice-solutions/JavaRegex2.java)        |
 | 023 | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem?isFullScreen=true)            | [ValidUsernameRegularExpression.java](./java-practice-solutions/ValidUsernameRegularExpression.java)        |
+| 024 | [Tag Context Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem?isFullScreen=true)            | [TagContextExtractor.java](./java-practice-solutions/TagContextExtractor.java)        |
 
 
