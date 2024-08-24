@@ -28,5 +28,6 @@
 | 024 | [Tag Context Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem?isFullScreen=true)            | [TagContextExtractor.java](./java-practice-solutions/TagContextExtractor.java)        |
 | 024 | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true)            | [JavaBigInteger.java](./java-practice-solutions/JavaBigInteger.java)        |
 | 025 | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true)            | [JavaPrimalityTest.java](./java-practice-solutions/JavaPrimalityTest.java)        |
+| 026 | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem?isFullScreen=true)            | [JavaBigDecimal.java](./java-practice-solutions/JavaBigDecimal.java)        |
 
 
