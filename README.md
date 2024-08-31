@@ -31,5 +31,6 @@
 | 026 | [Java BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem?isFullScreen=true)            | [JavaBigDecimal.java](./java-practice-solutions/JavaBigDecimal.java)        |
 | 027 | [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?isFullScreen=true)            | [Java1DArray.java](./java-practice-solutions/Java1DArray.java)        |
 | 028 | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem?isFullScreen=true)            | [Java2DArray.java](./java-practice-solutions/Java2DArray.java)        |
+| 029 | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem?isFullScreen=true)            | [JavaSubarray.java](./java-practice-solutions/JavaSubarray.java)        |
 
 
