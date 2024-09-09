@@ -33,5 +33,5 @@
 | 028 | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem?isFullScreen=true)            | [Java2DArray.java](./java-practice-solutions/Java2DArray.java)        |
 | 029 | [Java Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem?isFullScreen=true)            | [JavaSubarray.java](./java-practice-solutions/JavaSubarray.java)        |
 | 030 | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem?isFullScreen=true)            | [JavaArraylist.java](./java-practice-solutions/JavaArraylist.java)        |
-
+| 031 | [Java List](https://www.hackerrank.com/challenges/java-list/problem?isFullScreen=true)            | [JavaList.java](./java-practice-solutions/JavaList.java)        |
 
