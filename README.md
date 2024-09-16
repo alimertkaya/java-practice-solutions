@@ -36,3 +36,4 @@
 | 031 | [Java List](https://www.hackerrank.com/challenges/java-list/problem?isFullScreen=true)            | [JavaList.java](./java-practice-solutions/JavaList.java)        |
 | 032 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true)            | [JavaMap.java](./java-practice-solutions/JavaMap.java)        |
 | 032 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true)            | [JavaHashset.java](./java-practice-solutions/JavaHashset.java)        |
+| 033 | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true)            | [JavaGenerics.java](./java-practice-solutions/JavaGenerics.java)        |
