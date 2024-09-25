@@ -37,3 +37,4 @@
 | 032 | [Java Map](https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true)            | [JavaMap.java](./java-practice-solutions/JavaMap.java)        |
 | 032 | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset/problem?isFullScreen=true)            | [JavaHashset.java](./java-practice-solutions/JavaHashset.java)        |
 | 033 | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true)            | [JavaGenerics.java](./java-practice-solutions/JavaGenerics.java)        |
+| 033 | [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true)            | [JavaInheritance1.java](./java-practice-solutions/JavaInheritance1.java)        |
