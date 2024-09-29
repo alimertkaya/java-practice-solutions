@@ -39,3 +39,4 @@
 | 033 | [Java Generics](https://www.hackerrank.com/challenges/java-generics/problem?isFullScreen=true)            | [JavaGenerics.java](./java-practice-solutions/JavaGenerics.java)        |
 | 033 | [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true)            | [JavaInheritance1.java](./java-practice-solutions/JavaInheritance1.java)        |
 | 034 | [Java Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true)            | [JavaInheritance2.java](./java-practice-solutions/JavaInheritance2.java)        |
+| 035 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true)            | [JavaAbstractClass.java](./java-practice-solutions/JavaAbstractClass.java)        |
