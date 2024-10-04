@@ -41,3 +41,4 @@
 | 034 | [Java Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true)            | [JavaInheritance2.java](./java-practice-solutions/JavaInheritance2.java)        |
 | 035 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true)            | [JavaAbstractClass.java](./java-practice-solutions/JavaAbstractClass.java)        |
 | 036 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true)            | [JavaInterface.java](./java-practice-solutions/JavaInterface.java)        |
+| 037 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true)            | [JavaMethodOverriding.java](./java-practice-solutions/JavaMethodOverriding.java)        |
