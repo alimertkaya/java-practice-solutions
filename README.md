@@ -42,3 +42,4 @@
 | 035 | [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true)            | [JavaAbstractClass.java](./java-practice-solutions/JavaAbstractClass.java)        |
 | 036 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true)            | [JavaInterface.java](./java-practice-solutions/JavaInterface.java)        |
 | 037 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true)            | [JavaMethodOverriding.java](./java-practice-solutions/JavaMethodOverriding.java)        |
+| 038 | [Java Method Overriding 2](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true)            | [JavaMethodOverriding2.java](./java-practice-solutions/JavaMethodOverriding2.java)        |
