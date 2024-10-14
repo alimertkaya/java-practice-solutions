@@ -45,3 +45,4 @@
 | 038 | [Java Method Overriding 2](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true)            | [JavaMethodOverriding2.java](./java-practice-solutions/JavaMethodOverriding2.java)        |
 | 039 | [Java Instanceof Keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true)            | [JavaInstanceofKeyword.java](./java-practice-solutions/JavaInstanceofKeyword.java)        |
 | 040 | [Java Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem?isFullScreen=true)            | [JavaExceptionHandling.java](./java-practice-solutions/JavaExceptionHandling.java)        |
+| 041 | [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true)            | [JavaIterator.java](./java-practice-solutions/JavaIterator.java)        |
